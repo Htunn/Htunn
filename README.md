@@ -21,9 +21,9 @@
 
 ### About Me :
 
-I am a Senior Application Consultant - DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Myanmar.
+I am a Senior Application Consultant  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Myanmar.
 
-- 🔭 I'm working as a Senior Application Consultant.
+- 🔭 I'm  mainly working on DevSecOps Culture Implementation.
 - ⚡ In my free time, mostly i write Technical Blog about DevSecOps Culture.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htunnthuthuu/)
 
