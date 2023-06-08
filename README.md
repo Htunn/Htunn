@@ -21,10 +21,32 @@
 
 ### About Me :
 
-I am a Senior Application Consultant  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Myanmar.
+Experienced DevSecOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about integrating security into the software development lifecycle. Committed to ensuring the confidentiality, integrity, and availability of systems through the implementation of robust security measures and best practices.
 
-- 🔭 I'm  mainly working on DevSecOps and MLOps Culture Implementation.
-- ⚡ In my free time, mostly i write Technical Blog about DevSecOps and MLOps.
+- DevOps methodologies (CI/CD, Agile, Scrum)
+- Cloud platforms (AWS, Azure)
+- Infrastructure as Code (Terraform, CloudFormation, Ansible)
+- Containerization and orchestration (Docker, Kubernetes)
+- Security frameworks and standards (OWASP, CIS, NIST)
+- Secure coding practices and vulnerability management
+- Security assessment and penetration testing
+- Incident response and threat modeling
+
+"With over 7 years of experience, I have successfully led cross-functional teams to implement secure DevSecOps practices and enhance the security posture of organizations. Highlights of my achievements include:
+
+- Designed and implemented CI/CD pipelines that include automated security testing, resulting in improved code quality and reduced time to market.
+
+- Led security assessments and penetration testing to identify vulnerabilities and provided actionable recommendations to mitigate risks.
+
+- Implemented infrastructure as code (IaC) using Terraform, enabling the secure and consistent deployment of cloud resources.
+
+- Collaborated with development teams to educate and train on secure coding practices, leading to a culture of security-aware developers."
+
+
+"I am deeply passionate about staying at the forefront of the ever-evolving field of DevSecOps. I actively engage in industry events, participate in security communities, and continuously expand my knowledge to stay ahead of emerging threats and technologies. My goal is to leverage my expertise to drive innovation, build secure systems, and contribute to the success of organizations committed to a DevSecOps approach."
+
+
+"I am always eager to connect with like-minded professionals, share experiences, and explore new opportunities in the world of DevSecOps. Feel free to reach out if you'd like to connect, discuss industry trends, or explore potential collaborations."
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htunnthuthuu/)
 
 ---
