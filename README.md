@@ -5,6 +5,8 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/htunnthuthuu/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img ![image](https://github.com/Htunn/Htunn/assets/27616115/0760aeb4-07d7-42a2-944b-54196bbada3d) alt="Scan Me"/>
+
   </a>
 </div>
 
