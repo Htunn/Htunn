@@ -5,9 +5,12 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/htunnthuthuu/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-     <img ![image](https://github.com/Htunn/Htunn/assets/27616115/0760aeb4-07d7-42a2-944b-54196bbada3d) alt="Scan Me"/>
 
   </a>
+</div>
+
+<div id="QR" align="center">
+  <img width="130" alt="image" src="https://github.com/Htunn/Htunn/assets/27616115/52f9f28b-3c33-47db-8099-f79264f29cd4"/>
 </div>
 
 <h1 align="center">
