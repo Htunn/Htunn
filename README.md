@@ -26,18 +26,19 @@
 
 ### About Me :
 
-Experienced DevSecOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about integrating security into the software development lifecycle. Committed to ensuring the confidentiality, integrity, and availability of systems through the implementation of robust security measures and best practices.
+"Experienced DevSecOps, Multi-Cloud Solution Architect and Security Consultant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about integrating security into the software development lifecycle. Committed to ensuring the confidentiality, integrity, and availability of systems through the implementation of robust security measures and best practices."
 
-- DevOps methodologies (CI/CD, Agile, Scrum)
+- DevSecOps methodologies (CI/CD, SBOM, SCA, SAST, DAST)
 - Cloud platforms (AWS, Azure)
 - Infrastructure as Code (Terraform, CloudFormation, Ansible)
 - Containerization and orchestration (Docker, Kubernetes)
-- Security frameworks and standards (OWASP, CIS, NIST)
+- Security frameworks and standards (OWASP, CIS, NIST, IM8)
+- Cloud Security ( CSPM, CWPP, CNAPP, ZTNA, SASE )
 - Secure coding practices and vulnerability management
 - Security assessment and penetration testing
 - Incident response and threat modeling
 
-"With over 7 years of experience, I have successfully led cross-functional teams to implement secure DevSecOps practices and enhance the security posture of organizations. Highlights of my achievements include:
+"With over 8 years of experience, I have successfully led cross-functional teams to implement secure DevSecOps practices and enhance the security posture of organizations. Highlights of my achievements include:
 
 - Designed and implemented CI/CD pipelines that include automated security testing, resulting in improved code quality and reduced time to market.
 
