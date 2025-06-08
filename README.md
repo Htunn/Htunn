@@ -38,7 +38,7 @@
 - Security assessment and penetration testing
 - Incident response and threat modeling
 
-"With over 8 years of experience, I have successfully led cross-functional teams to implement secure DevSecOps practices and enhance the security posture of organizations. Highlights of my achievements include:
+"With over 9 years of experience, I have successfully led cross-functional teams to implement secure DevSecOps practices and enhance the security posture of organizations. Highlights of my achievements include:
 
 - Designed and implemented CI/CD pipelines that include automated security testing, resulting in improved code quality and reduced time to market.
 
@@ -48,8 +48,30 @@
 
 - Collaborated with development teams to educate and train on secure coding practices, leading to a culture of security-aware developers."
 
+### 🤖 Artificial Intelligence & Machine Learning:
 
-"I am deeply passionate about staying at the forefront of the ever-evolving field of DevSecOps. I actively engage in industry events, participate in security communities, and continuously expand my knowledge to stay ahead of emerging threats and technologies. My goal is to leverage my expertise to drive innovation, build secure systems, and contribute to the success of organizations committed to a DevSecOps approach."
+- Large Language Models (LLMs) implementation and fine-tuning
+- Retrieval-Augmented Generation (RAG) architecture design and deployment
+- Azure OpenAI Service integration and custom solutions
+- Hugging Face models deployment and optimization
+- Multi-modal AI systems development
+- Prompt engineering and context optimization
+- Fine-tuning models like Llama, GPT, and domain-specific LLMs
+- Vector databases and efficient embedding strategies
+- AI model security, guardrails, and responsible AI practices
+- Machine learning operations (MLOps) and CI/CD for AI
+
+
+### 🔄 Recent Personal AI Projects:
+
+- [Agentic LLM Web Search](https://github.com/Htunn/agentic-llm-search)  
+  An intelligent agent that combines local LLM inference with web search capabilities to provide well-researched answers with proper citations. Optimized for Python 3.12 with TinyLlama and GPU acceleration on Apple Silicon M-series chips.
+
+- [Agentic IoT Observability Project](https://github.com/Htunn/agentic-iot-observability)  
+  This project implements a complete observability solution for IoT devices, collecting temperature and humidity metrics, storing them in MongoDB, visualizing them in Grafana, and enabling natural language queries through an LLM (Llama) service.
+
+
+"I am deeply passionate about staying at the forefront of the ever-evolving field of DevSecOps, Machine Learning and AI. I actively engage in industry events, participate in security communities, and continuously expand my knowledge to stay ahead of emerging threats and technologies. My goal is to leverage my expertise to drive innovation, build secure systems, and contribute to the success of the organizations.
 
 
 "I am always eager to connect with like-minded professionals, share experiences, and explore new opportunities in the world of DevSecOps. Feel free to reach out if you'd like to connect, discuss industry trends, or explore potential collaborations."
@@ -65,8 +87,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins" width="40" height="40"/>&nbsp;
