@@ -2,7 +2,7 @@
 
 ## Multi-Cloud Solution Architect | DevSecOps Engineer | AI/ML Practitioner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htunnthuthuu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htunnthuthu/)
 [![Blog](https://img.shields.io/badge/Blog-Tech%20With%20Htunn-orange?style=for-the-badge)](https://blog.htunnthuthu.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=htunn&style=flat-square&color=blue)](https://github.com/htunn)
 
