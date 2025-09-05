@@ -1,45 +1,62 @@
-# HTunn Thu Thu
+# Htunn Thu Thu
 
-## Multi-Cloud Solution Architect | Security Consultant
+## Multi-Cloud Solution Architect | DevSecOps Engineer | AI/ML Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htunnthuthuu/)
+[![Blog](https://img.shields.io/badge/Blog-Tech%20With%20Htunn-orange?style=for-the-badge)](https://blog.htunnthuthu.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=htunn&style=flat-square&color=blue)](https://github.com/htunn)
 
 ## About Me
 
-Experienced DevSecOps Engineer, Multi-Cloud Solution Architect, and Security Consultant with over 9 years of experience in integrating security into the software development lifecycle. Passionate about ensuring the confidentiality, integrity, and availability of systems through robust security measures and best practices.
+Technology practitioner with over a decade of experience at the intersection of cloud computing, security, and data engineering. I specialize in transforming cutting-edge research into practical business solutions, with a focus on implementing AI/ML systems that provide genuine value while maintaining security and reliability at scale.
+
+My journey spans from traditional operations to modern engineering-focused approaches, where I've successfully led cross-functional teams in implementing secure DevSecOps practices and architecting resilient multi-cloud solutions that balance technical innovation with business agility.
 
 ## Core Expertise
 
-### DevSecOps & Cloud Security
-- DevSecOps methodologies (CI/CD, SBOM, SCA, SAST, DAST)
-- Multi-cloud platforms (AWS, Azure)
+### DevSecOps & Security Engineering
+- "Shift-left" security methodologies with 60%+ reduction in mean-time-to-remediation
+- Automated security testing integration in CI/CD pipelines (SBOM, SCA, SAST, DAST)
+- Vulnerability management strategies and security team collaboration frameworks
+- Security frameworks and compliance (OWASP, CIS, NIST, IM8)
+- Cloud Security implementations (CSPM, CWPP, CNAPP, ZTNA, SASE)
+
+### Multi-Cloud Architecture & Infrastructure
+- Strategic multi-cloud environments preventing vendor lock-in
 - Infrastructure as Code (Terraform, CloudFormation, Ansible)
-- Containerization and orchestration (Docker, Kubernetes)
-- Security frameworks and standards (OWASP, CIS, NIST, IM8)
-- Cloud Security (CSPM, CWPP, CNAPP, ZTNA, SASE)
-- Secure coding practices and vulnerability management
-- Security assessment and penetration testing
-- Incident response and threat modeling
+- Container orchestration and service mesh architectures (Docker, Kubernetes)
+- Cross-provider cost optimization and technical resilience strategies
+- Enterprise cloud migration and modernization initiatives
 
 ### Artificial Intelligence & Machine Learning
+- Production AI/ML systems from research to deployment
 - Large Language Models (LLMs) implementation and fine-tuning
-- Retrieval-Augmented Generation (RAG) architecture design and deployment
+- Retrieval-Augmented Generation (RAG) architecture design
 - Azure OpenAI Service integration and custom solutions
-- Hugging Face models deployment and optimization
-- Multi-modal AI systems development
-- Prompt engineering and context optimization
-- Fine-tuning models like Llama, GPT, and domain-specific LLMs
-- Vector databases and efficient embedding strategies
-- AI model security, guardrails, and responsible AI practices
-- Machine learning operations (MLOps) and CI/CD for AI
+- MLOps pipelines and AI model security/governance frameworks
+- Computer vision and natural language processing applications
+
+### Data Engineering & Site Reliability
+- Petabyte-scale data pipeline architecture and ETL processes
+- Data quality frameworks and governance implementations
+- SRE practices with SLOs, error budgets, and automated reliability testing
+- Observable systems design and performance optimization
+- Engineering-focused approach to operational challenges
+
+### Identity & Access Management
+- Modern identity governance and zero-trust architecture
+- Authentication innovations and passwordless implementations
+- Enterprise IAM solutions balancing security with user experience
+- Access management for complex distributed systems
 
 ## Key Achievements
 
-- **CI/CD Pipeline Implementation**: Designed and implemented automated CI/CD pipelines with integrated security testing, improving code quality and reducing time to market
-- **Security Leadership**: Led comprehensive security assessments and penetration testing initiatives, providing actionable recommendations for risk mitigation
-- **Infrastructure as Code**: Implemented secure IaC solutions using Terraform, enabling consistent and secure deployment of cloud resources
-- **Team Development**: Collaborated with development teams to establish secure coding practices, fostering a culture of security-aware developers
+- **DevSecOps Transformation**: Implemented "security as code" methodologies that reduced mean-time-to-remediation by over 60% through automated security testing and team collaboration frameworks
+- **Multi-Cloud Architecture**: Designed and deployed enterprise multi-cloud environments with strategic flexibility, preventing vendor lock-in while optimizing costs across AWS and Azure
+- **AI/ML Production Systems**: Successfully transformed AI research into practical business applications, implementing production-ready machine learning systems with proper governance and security
+- **Data Pipeline Engineering**: Architected and implemented petabyte-scale data processing systems with robust ETL processes and data quality frameworks
+- **SRE Implementation**: Established Site Reliability Engineering practices with SLOs, error budgets, and automated reliability testing, transforming system performance measurement and improvement
+- **Identity Modernization**: Led enterprise IAM implementations with zero-trust architecture and passwordless authentication, balancing security with seamless user experience
 
 
 ## Featured Projects
@@ -51,15 +68,26 @@ An intelligent agent that combines local LLM inference with web search capabilit
 Complete observability solution for IoT devices, collecting temperature and humidity metrics, storing them in MongoDB, visualizing them in Grafana, and enabling natural language queries through an LLM (Llama) service.
 
 
-## Professional Focus
+## Professional Focus & Knowledge Sharing
 
-I am passionate about staying at the forefront of DevSecOps, Machine Learning, and AI technologies. I actively engage in industry events, participate in security communities, and continuously expand my knowledge to address emerging threats and technologies. My goal is to leverage expertise to drive innovation, build secure systems, and contribute to organizational success.
+I am passionate about staying at the forefront of modern technology landscapes, particularly where AI, cloud computing, and security intersect. Through my [blog "Tech With Htunn"](https://blog.htunnthuthu.com/), I share practical, experience-based guidance that goes beyond theoretical concepts—real approaches that have succeeded (and sometimes failed) in production environments.
 
-## Connect
+My knowledge-sharing focuses on:
+- **Artificial Intelligence**: Moving beyond the hype to implement AI solutions that deliver genuine business value
+- **DevSecOps**: Practical implementations of security as code, not afterthought
+- **Data Engineering**: Architecting for insight with robust data pipeline strategies
+- **Multi-Cloud Strategy**: Achieving strategic flexibility while minimizing complexity
+- **Modern IAM**: Identity as the new security perimeter in distributed systems
+- **Site Reliability**: Stability through engineering principles and automation
 
-I'm always eager to connect with like-minded professionals, share experiences, and explore new opportunities in DevSecOps and AI/ML. Feel free to reach out to discuss industry trends or potential collaborations.
+I actively contribute to open-source projects, participate in technology communities, and regularly update my knowledge base with emerging practices and lessons learned from real-world implementations.
+
+## Connect & Collaborate
+
+I'm always eager to connect with fellow technology practitioners, share experiences, and explore collaborative opportunities. Whether you're looking to discuss industry trends, seek guidance on specific technical challenges, or explore potential partnerships, feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htunnthuthuu/)
+[![Blog](https://img.shields.io/badge/Blog-Tech%20With%20Htunn-orange?style=for-the-badge)](https://blog.htunnthuthu.com/)
 
 ## Technical Stack
 
