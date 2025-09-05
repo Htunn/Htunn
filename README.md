@@ -86,7 +86,7 @@ I actively contribute to open-source projects, participate in technology communi
 
 I'm always eager to connect with fellow technology practitioners, share experiences, and explore collaborative opportunities. Whether you're looking to discuss industry trends, seek guidance on specific technical challenges, or explore potential partnerships, feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htunnthuthuu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htunnthuthu/)
 [![Blog](https://img.shields.io/badge/Blog-Tech%20With%20Htunn-orange?style=for-the-badge)](https://blog.htunnthuthu.com/)
 
 ## Technical Stack
