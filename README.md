@@ -176,8 +176,6 @@ I'm always eager to connect with fellow technology practitioners, share experien
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htunn&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=htunn&theme=tokyonight&hide_border=true)](https://github.com/htunn)
-
 </div>
 
 ---
