@@ -20,9 +20,11 @@
 
 ## 👨‍💻 About Me
 
-Technology practitioner with over a decade of experience at the intersection of cloud computing, security, and data engineering. I specialize in transforming cutting-edge research into practical business solutions, with a focus on implementing AI/ML systems that provide genuine value while maintaining security and reliability at scale.
+Technology practitioner with over a decade of experience at the intersection of cloud computing, security, platform engineering, and data engineering. I specialize in transforming cutting-edge research into practical business solutions, with a focus on implementing AI/ML systems and platform engineering solutions that provide genuine value while maintaining security and reliability at scale.
 
-My journey spans from traditional operations to modern engineering-focused approaches, where I've successfully led cross-functional teams in implementing secure DevSecOps practices and architecting resilient multi-cloud solutions that balance technical innovation with business agility.
+My journey spans from traditional operations to modern engineering-focused approaches, where I've successfully led cross-functional teams in implementing secure DevSecOps practices, building internal developer platforms, and architecting resilient multi-cloud solutions that balance technical innovation with business agility.
+
+Passionate about open source, I actively contribute to security and infrastructure testing communities through projects like [ansible-inspec](https://github.com/Htunn/ansible-inspec) (combining Ansible automation with Chef InSpec compliance testing), [simple-port-checker](https://github.com/Htunn/simple-port-checker), and security testing tools including [simple-exploit](https://github.com/Htunn/simple-exploit) and [simple-waf-scanner](https://github.com/Htunn/simple-waf-scanner).
 
 ## 🎯 Core Expertise
 
@@ -61,6 +63,14 @@ My journey spans from traditional operations to modern engineering-focused appro
 - Enterprise IAM solutions balancing security with user experience
 - Access management for complex distributed systems
 
+### 🏗️ Platform Engineering
+- Internal Developer Platform (IDP) design and implementation
+- Self-service infrastructure provisioning and golden paths
+- Developer experience optimization and productivity metrics
+- Platform-as-a-Product mindset with strong API-first approaches
+- Standardized toolchains and paved roads for application deployment
+- Service catalogs and templating for consistent development workflows
+
 ## 🏆 Key Achievements
 
 - **DevSecOps Transformation**: Implemented "security as code" methodologies that reduced mean-time-to-remediation by over 60% through automated security testing and team collaboration frameworks
@@ -69,16 +79,7 @@ My journey spans from traditional operations to modern engineering-focused appro
 - **Data Pipeline Engineering**: Architected and implemented petabyte-scale data processing systems with robust ETL processes and data quality frameworks
 - **SRE Implementation**: Established Site Reliability Engineering practices with SLOs, error budgets, and automated reliability testing, transforming system performance measurement and improvement
 - **Identity Modernization**: Led enterprise IAM implementations with zero-trust architecture and passwordless authentication, balancing security with seamless user experience
-
-
-## 🚀 Featured Projects
-
-### [Agentic LLM Web Search](https://github.com/Htunn/agentic-llm-search)
-An intelligent agent that combines local LLM inference with web search capabilities to provide well-researched answers with proper citations. Optimized for Python 3.12 with TinyLlama and GPU acceleration on Apple Silicon M-series chips.
-
-### [Agentic IoT Observability](https://github.com/Htunn/agentic-iot-observability)
-Complete observability solution for IoT devices, collecting temperature and humidity metrics, storing them in MongoDB, visualizing them in Grafana, and enabling natural language queries through an LLM (Llama) service.
-
+- **Platform Engineering Leadership**: Built and scaled Internal Developer Platforms (IDPs) enabling self-service infrastructure provisioning, reducing deployment time by 70% while maintaining security and compliance standards
 
 ## 📚 Professional Focus & Knowledge Sharing
 
@@ -87,12 +88,22 @@ I am passionate about staying at the forefront of modern technology landscapes, 
 My knowledge-sharing focuses on:
 - **Artificial Intelligence**: Moving beyond the hype to implement AI solutions that deliver genuine business value
 - **DevSecOps**: Practical implementations of security as code, not afterthought
+- **Platform Engineering**: Building internal developer platforms that enhance productivity and developer experience
 - **Data Engineering**: Architecting for insight with robust data pipeline strategies
 - **Multi-Cloud Strategy**: Achieving strategic flexibility while minimizing complexity
 - **Modern IAM**: Identity as the new security perimeter in distributed systems
 - **Site Reliability**: Stability through engineering principles and automation
 
-I actively contribute to open-source projects, participate in technology communities, and regularly update my knowledge base with emerging practices and lessons learned from real-world implementations.
+### Open Source & Community Dedication
+
+I am deeply committed to advancing the security and infrastructure automation communities through active open-source contributions. My projects bridge practical security testing with modern automation frameworks:
+
+- **[ansible-inspec](https://github.com/Htunn/ansible-inspec)**: Pioneering the integration of Ansible's automation capabilities with Chef InSpec's compliance framework, enabling organizations to combine configuration management with continuous security testing
+- **[simple-port-checker](https://github.com/Htunn/simple-port-checker)**: Comprehensive network security validation tool for detecting firewall configurations and Layer 7 protection services (WAF, CDN)
+- **[simple-exploit](https://github.com/Htunn/simple-exploit)**: AI-powered penetration testing framework demonstrating the intersection of modern AI/ML with ethical security testing
+- **[simple-waf-scanner](https://github.com/Htunn/simple-waf-scanner)**: Advanced WAF detection and authorized security testing toolkit built in Rust for performance and reliability
+
+Through these projects and active participation in technology communities, I share battle-tested approaches, collaborate with security professionals worldwide, and contribute to raising the bar for infrastructure security and automation practices.
 
 ## 🌟 Open Source Contributions
 
@@ -163,26 +174,9 @@ I'm always eager to connect with fellow technology practitioners, share experien
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=htunn&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=htunn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htunn&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=800" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htunn&theme=tokyonight" alt="Profile Summary" />
-    </td>
-  </tr>
-</table>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htunn&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=htunn&theme=tokyonight&hide_border=true)](https://github.com/htunn)
 
 </div>
 
