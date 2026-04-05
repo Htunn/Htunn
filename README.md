@@ -121,6 +121,7 @@ Through these projects and active participation in technology communities, I sha
 | **[ansible-inspec](https://github.com/Htunn/ansible-inspec)** | A compliance and infrastructure testing tool that combines the power of Ansible's automation capabilities with InSpec's compliance and security testing framework | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[simple-exploit](https://github.com/Htunn/simple-exploit)** | AI-powered penetration testing framework with hot-reloadable plugins, intelligent WAF bypass, and GitHub Copilot SDK integration | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | **[simple-waf-scanner](https://github.com/Htunn/simple-waf-scanner)** | A powerful Web Application Firewall (WAF) detection and bypass testing tool written in Rust for authorized security testing | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| **[simple-service-bus](https://github.com/Htunn/simple-service-bus)** | A modern, decentralized Enterprise Service Bus (ESB) with multi-protocol support (HTTP/REST, gRPC, AMQP, MQTT, Kafka, WebSocket, GraphQL), pluggable message brokers, and enterprise features including circuit breakers, rate limiting, and observability | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 </div>
 
