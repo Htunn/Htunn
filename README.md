@@ -9,12 +9,31 @@
   <a href="https://blog.htunnthuthu.com/"><img src="https://img.shields.io/badge/Blog-Tech%20With%20Htunn-1B6CA8?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
   <a href="https://hub.docker.com/u/htunnthuthu"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Hub"/></a>
   <a href="https://github.com/Htunn?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.credly.com/users/htunn"><img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6F00?style=flat-square&logo=credly&logoColor=white" alt="Credly"/></a>
   <img src="https://komarev.com/ghpvc/?username=htunn&style=flat-square&color=1B6CA8&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 </div>
 
 <br/>
+
+---
+
+## Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/users/htunn">
+    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20%E2%80%94%20Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SA Pro"/>
+  </a>
+  <a href="https://www.credly.com/users/htunn">
+    <img src="https://img.shields.io/badge/AWS-DevOps%20Engineer%20%E2%80%94%20Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS DevOps Pro"/>
+  </a>
+  <a href="https://www.credly.com/users/htunn">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-Solutions%20Architect%20%E2%80%94%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure SA Expert"/>
+  </a>
+</p>
+
+<p align="center"><sub>Verified on <a href="https://www.credly.com/users/htunn">Credly</a></sub></p>
 
 ---
 
