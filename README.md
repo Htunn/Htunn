@@ -1,202 +1,290 @@
 <div align="center">
 
-# Htunn Thu Thu
+<!-- ============================ HEADER ============================ -->
 
-### Multi-Cloud Solution Architect | DevSecOps Engineer | AI/ML Practitioner
+<a href="https://blog.htunnthuthu.com/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:1B6CA8&height=180&section=header&text=Htunn%20Thu%20Thu&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Principal%20Architect%20%C2%B7%20GenAI%20%26%20AIOps%20%C2%B7%20Platform%20Engineering&descSize=16&descAlignY=60&animation=fadeIn" alt="header" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/htunnthuthu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://blog.htunnthuthu.com/">
-    <img src="https://img.shields.io/badge/Blog-Tech%20With%20Htunn-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/htunn?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/htunn?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=htunn&style=for-the-badge&color=0077B5" alt="Profile Views"/>
-</p>
+<br/>
 
----
-
-</div>
-
-## 👨‍💻 About Me
-
-Technology practitioner with over a decade of experience at the intersection of cloud computing, security, platform engineering, and data engineering. I specialize in transforming cutting-edge research into practical business solutions, with a focus on implementing AI/ML systems and platform engineering solutions that provide genuine value while maintaining security and reliability at scale.
-
-My journey spans from traditional operations to modern engineering-focused approaches, where I've successfully led cross-functional teams in implementing secure DevSecOps practices, building internal developer platforms, and architecting resilient multi-cloud solutions that balance technical innovation with business agility.
-
-Passionate about open source, I actively contribute to security and infrastructure testing communities through projects like [ansible-inspec](https://github.com/Htunn/ansible-inspec) (combining Ansible automation with Chef InSpec compliance testing), [simple-port-checker](https://github.com/Htunn/simple-port-checker), and security testing tools including [simple-exploit](https://github.com/Htunn/simple-exploit) and [simple-waf-scanner](https://github.com/Htunn/simple-waf-scanner).
-
-## 🎯 Core Expertise
-
-### 🔒 DevSecOps & Security Engineering
-- "Shift-left" security methodologies with 60%+ reduction in mean-time-to-remediation
-- Automated security testing integration in CI/CD pipelines (SBOM, SCA, SAST, DAST)
-- Vulnerability management strategies and security team collaboration frameworks
-- Security frameworks and compliance (OWASP, CIS, NIST, IM8)
-- Cloud Security implementations (CSPM, CWPP, CNAPP, ZTNA, SASE)
-
-### ☁️ Multi-Cloud Architecture & Infrastructure
-- Strategic multi-cloud environments preventing vendor lock-in
-- Infrastructure as Code (Terraform, CloudFormation, Ansible)
-- Container orchestration and service mesh architectures (Docker, Kubernetes)
-- Cross-provider cost optimization and technical resilience strategies
-- Enterprise cloud migration and modernization initiatives
-
-### 🤖 Artificial Intelligence & Machine Learning
-- Production AI/ML systems from research to deployment
-- Large Language Models (LLMs) implementation and fine-tuning
-- Retrieval-Augmented Generation (RAG) architecture design
-- Azure OpenAI Service integration and custom solutions
-- MLOps pipelines and AI model security/governance frameworks
-- Computer vision and natural language processing applications
-
-### 📊 Data Engineering & Site Reliability
-- Petabyte-scale data pipeline architecture and ETL processes
-- Data quality frameworks and governance implementations
-- SRE practices with SLOs, error budgets, and automated reliability testing
-- Observable systems design and performance optimization
-- Engineering-focused approach to operational challenges
-
-### 🔐 Identity & Access Management
-- Modern identity governance and zero-trust architecture
-- Authentication innovations and passwordless implementations
-- Enterprise IAM solutions balancing security with user experience
-- Access management for complex distributed systems
-
-### 🏗️ Platform Engineering
-- Internal Developer Platform (IDP) design and implementation
-- Self-service infrastructure provisioning and golden paths
-- Developer experience optimization and productivity metrics
-- Platform-as-a-Product mindset with strong API-first approaches
-- Standardized toolchains and paved roads for application deployment
-- Service catalogs and templating for consistent development workflows
-
-## 🏆 Key Achievements
-
-- **DevSecOps Transformation**: Implemented "security as code" methodologies that reduced mean-time-to-remediation by over 60% through automated security testing and team collaboration frameworks
-- **Multi-Cloud Architecture**: Designed and deployed enterprise multi-cloud environments with strategic flexibility, preventing vendor lock-in while optimizing costs across AWS and Azure
-- **AI/ML Production Systems**: Successfully transformed AI research into practical business applications, implementing production-ready machine learning systems with proper governance and security
-- **Data Pipeline Engineering**: Architected and implemented petabyte-scale data processing systems with robust ETL processes and data quality frameworks
-- **SRE Implementation**: Established Site Reliability Engineering practices with SLOs, error budgets, and automated reliability testing, transforming system performance measurement and improvement
-- **Identity Modernization**: Led enterprise IAM implementations with zero-trust architecture and passwordless authentication, balancing security with seamless user experience
-- **Platform Engineering Leadership**: Built and scaled Internal Developer Platforms (IDPs) enabling self-service infrastructure provisioning, reducing deployment time by 70% while maintaining security and compliance standards
-
-## 📚 Professional Focus & Knowledge Sharing
-
-I am passionate about staying at the forefront of modern technology landscapes, particularly where AI, cloud computing, and security intersect. Through my [blog "Tech With Htunn"](https://blog.htunnthuthu.com/), I share practical, experience-based guidance that goes beyond theoretical concepts—real approaches that have succeeded (and sometimes failed) in production environments.
-
-My knowledge-sharing focuses on:
-- **Artificial Intelligence**: Moving beyond the hype to implement AI solutions that deliver genuine business value
-- **DevSecOps**: Practical implementations of security as code, not afterthought
-- **Platform Engineering**: Building internal developer platforms that enhance productivity and developer experience
-- **Data Engineering**: Architecting for insight with robust data pipeline strategies
-- **Multi-Cloud Strategy**: Achieving strategic flexibility while minimizing complexity
-- **Modern IAM**: Identity as the new security perimeter in distributed systems
-- **Site Reliability**: Stability through engineering principles and automation
-
-### Open Source & Community Dedication
-
-I am deeply committed to advancing the security and infrastructure automation communities through active open-source contributions. My projects bridge practical security testing with modern automation frameworks:
-
-- **[ansible-inspec](https://github.com/Htunn/ansible-inspec)**: Pioneering the integration of Ansible's automation capabilities with Chef InSpec's compliance framework, enabling organizations to combine configuration management with continuous security testing
-- **[simple-port-checker](https://github.com/Htunn/simple-port-checker)**: Comprehensive network security validation tool for detecting firewall configurations and Layer 7 protection services (WAF, CDN)
-- **[simple-exploit](https://github.com/Htunn/simple-exploit)**: AI-powered penetration testing framework demonstrating the intersection of modern AI/ML with ethical security testing
-- **[simple-waf-scanner](https://github.com/Htunn/simple-waf-scanner)**: Advanced WAF detection and authorized security testing toolkit built in Rust for performance and reliability
-
-Through these projects and active participation in technology communities, I share battle-tested approaches, collaborate with security professionals worldwide, and contribute to raising the bar for infrastructure security and automation practices.
-
-## 🌟 Open Source Contributions
-
-### Active Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[simple-ai-agent](https://github.com/Htunn/simple-ai-agent)** | Production-ready multi-channel AI agent with AIOps, Kubernetes management, security scanning, and human-in-the-loop remediation — built on FastAPI, GitHub Models, and Model Context Protocol (MCP) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[simple-faceid](https://github.com/Htunn/simple-faceid)** | Face recognition and identification system with advanced computer vision capabilities for secure authentication and access control | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[simple-port-checker](https://github.com/Htunn/simple-port-checker)** | A comprehensive Python tool for checking firewall ports and detecting L7 protection services (WAF, CDN, etc.) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[ansible-inspec](https://github.com/Htunn/ansible-inspec)** | A compliance and infrastructure testing tool that combines the power of Ansible's automation capabilities with InSpec's compliance and security testing framework | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[simple-exploit](https://github.com/Htunn/simple-exploit)** | AI-powered penetration testing framework with hot-reloadable plugins, intelligent WAF bypass, and GitHub Copilot SDK integration | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **[simple-waf-scanner](https://github.com/Htunn/simple-waf-scanner)** | A powerful Web Application Firewall (WAF) detection and bypass testing tool written in Rust for authorized security testing | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| **[simple-service-bus](https://github.com/Htunn/simple-service-bus)** | A modern, decentralized Enterprise Service Bus (ESB) with multi-protocol support (HTTP/REST, gRPC, AMQP, MQTT, Kafka, WebSocket, GraphQL), pluggable message brokers, and enterprise features including circuit breakers, rate limiting, and observability | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-
-</div>
-
----
-
-## 🤝 Connect & Collaborate
-
-I'm always eager to connect with fellow technology practitioners, share experiences, and explore collaborative opportunities. Whether you're looking to discuss industry trends, seek guidance on specific technical challenges, or explore potential partnerships, feel free to reach out.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htunnthuthu/)
-[![Blog](https://img.shields.io/badge/Blog-Tech%20With%20Htunn-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.htunnthuthu.com/)
-
-</div>
-
----
-
-## 🛠️ Technical Stack
-
-<div align="center">
-
-### Cloud & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-</p>
-
-### Programming & AI/ML
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-</p>
-
-### DevOps & Monitoring
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <a href="https://www.linkedin.com/in/htunnthuthu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://blog.htunnthuthu.com/"><img src="https://img.shields.io/badge/Blog-Tech%20With%20Htunn-1B6CA8?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://hub.docker.com/u/htunnthuthu"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Hub"/></a>
+  <a href="https://github.com/Htunn?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=htunn&style=flat-square&color=1B6CA8&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 GitHub Statistics
+## About
+
+> Principal Architect & Advisor with **10+ years** of leadership at the intersection of high-velocity cloud platforms, automated security, and data ecosystems. I translate complex technical innovation — **GenAI, AIOps, agentic systems, and LLMOps** — into resilient corporate infrastructure that drives business growth while maintaining strict enterprise governance.
+
+My career is defined by spearheading organization-wide transformations, establishing global engineering standards, and acting as a **technical force multiplier** — bridging executive leadership and engineering teams to balance innovation with regulatory compliance.
+
+As an active **open-source author**, I build tools that automate compliance, streamline platform delivery, and securely integrate AI with enterprise infrastructure.
+
+<br/>
+
+## What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### &nbsp;GenAI, Agentic Systems & AIOps
+- Secure platforms across the full AI lifecycle — LLMOps, MLOps, governance
+- Agentic systems with tool use, planning, memory & human-in-the-loop
+- **Model Context Protocol (MCP)** servers and multi-channel AI agents
+- Multi-provider LLM strategy — Azure OpenAI, OpenAI, GitHub Models, Anthropic, Gemini, Ollama
+- RAG, fine-tuning, evaluation, and guardrails for production workloads
+- AIOps for Kubernetes — detection, RCA, automated remediation
+
+</td>
+<td width="50%" valign="top">
+
+#### &nbsp;Platform Engineering, IDPs & SRE
+- Self-service **Internal Developer Platforms** that boost developer velocity
+- Vendor-agnostic **multi-cloud** strategy across AWS & Azure (Terraform, Ansible)
+- Container orchestration and service mesh at enterprise scale
+- SRE practices — SLOs, error budgets, golden paths, paved roads
+- Cost optimization and operational resilience at scale
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### &nbsp;Enterprise DevSecOps
+- Organization-wide secure pipelines and compliance automation (**IM8, OWASP, CIS, NIST**)
+- Supply-chain security (**SBOM, SAST/DAST, SCA**) — **60%+ MTTR reduction**
+- Cloud security: CSPM, CWPP, CNAPP, ZTNA, SASE
+- AI/LLM threat modeling — OWASP LLM Top 10
+- Zero-trust IAM and passwordless authentication
+
+</td>
+<td width="50%" valign="top">
+
+#### &nbsp;Engineering Leadership & OSS
+- Technical authority across distributed global business units
+- Mentor senior engineers; build SRE and security cultures
+- Author OSS tooling that removes dev↔ops friction
+- Translate strategy for C-suite while staying hands-on with architecture
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Selected Open Source
+
+> Production-grade tools at the intersection of **AI, security, and platform engineering** — designed to be deployed inside real enterprises.
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Htunn/simple-ai-agent"><b>simple-ai-agent</b></a></td>
+      <td>Production-ready multi-channel AI agent — AIOps, Kubernetes management, security scanning, human-in-the-loop remediation. Built on FastAPI, GitHub Models, and MCP.</td>
+      <td><sub>Python · FastAPI · MCP</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Htunn/simple-cicd-translator"><b>simple-cicd-translator</b></a></td>
+      <td>Agentic service translating CI/CD pipelines between Jenkins, GitLab CI, and GitHub Actions via pluggable LLMs (Gemini, OpenAI, Azure OpenAI, GitHub Models, Anthropic, Ollama).</td>
+      <td><sub>Python · Multi-LLM</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Htunn/simple-exploit"><b>simple-exploit</b></a></td>
+      <td>AI-powered pentest framework with hot-reloadable plugins, intelligent WAF bypass, and dual AI engines — GitHub Models (GPT-4o/5) and Ollama (Gemma/Llama 3, offline).</td>
+      <td><sub>Go · Ollama</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Htunn/ansible-inspec"><b>ansible-inspec</b></a></td>
+      <td>Combines Ansible automation with Chef InSpec for continuous compliance and security validation.</td>
+      <td><sub>Python</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Htunn/simple-waf-scanner"><b>simple-waf-scanner</b></a></td>
+      <td>High-performance WAF detection and authorized security testing toolkit, written in Rust.</td>
+      <td><sub>Rust</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Htunn/simple-service-bus"><b>simple-service-bus</b></a></td>
+      <td>Decentralized ESB with multi-protocol support (HTTP, gRPC, AMQP, MQTT, Kafka, WebSocket, GraphQL) — useful infrastructure for agent-to-agent messaging.</td>
+      <td><sub>Go · TypeScript</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Htunn/simple-faceid"><b>simple-faceid</b></a></td>
+      <td>Face recognition and identification system with advanced computer vision capabilities for secure authentication.</td>
+      <td><sub>Python · OpenCV</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Htunn/simple-port-checker"><b>simple-port-checker</b></a></td>
+      <td>Python tool for firewall port checking and L7 protection detection (WAF, CDN).</td>
+      <td><sub>Python</sub></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Htunn/ml-training"><b>ml-training</b></a></td>
+      <td>Machine learning from the ground up — mathematics first, code second. NumPy · scikit-learn · Apple Silicon (ARM64 native).</td>
+      <td><sub>Jupyter · NumPy</sub></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+## Selected Impact
+
+- **DevSecOps at scale** — Authored automated supply-chain security (SBOM, SAST/DAST) across enterprise SDLCs, delivering **60%+ reduction in MTTR**.
+- **Multi-cloud strategy** — Defined vendor-agnostic AWS + Azure architectures preventing lock-in while optimizing large-scale cloud spend.
+- **Platform engineering** — Built and scaled Internal Developer Platforms enabling self-service infrastructure, reducing deployment time by **~70%** while maintaining security & compliance.
+- **GenAI productionization** — Translated AI research into governed enterprise systems with LLMOps, observability, and model risk management.
+- **OSS authorship** — Published production-grade tooling in **Python, Go, and Rust** spanning AI agents, compliance, and security testing.
+
+<br/>
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**AI · GenAI · Agentic**
+<p>
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Models-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+</p>
+
+**ML · Data**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**Cloud & Platform**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
+</p>
+
+**DevSecOps & Observability**
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=FCC624"/>
+</p>
+
+**Security & Compliance**
+<p>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NIST-1B6CA8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CIS-D7282F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SBOM-1B6CA8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SAST%20%2F%20DAST-0F4C81?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Zero%20Trust-191919?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htunn&theme=tokyonight" alt="Profile Details" />
-</p>
+<a href="https://github.com/Htunn">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Htunn&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=1B6CA8&icon_color=1B6CA8" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/Htunn">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htunn&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=1B6CA8" alt="Top languages"/>
+</a>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htunn&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
+<br/>
+
+## Writing
+
+I publish hands-on, production-tested writing at **[blog.htunnthuthu.com](https://blog.htunnthuthu.com/)** — *Tech With Htunn*:
+
+- GenAI & agentic systems — beyond demos to enterprise-ready architectures
+- LLMOps & AI security — prompt injection, data leakage, OWASP LLM Top 10
+- Platform engineering & SRE — IDPs, golden paths, paved roads
+- DevSecOps & multi-cloud — security as code, not afterthought
+
+<br/>
+
+## Let's Connect
+
+Open to conversations on **enterprise GenAI strategy, agentic platform architecture, LLMOps & AI security, IDPs, and multi-cloud transformation** — and to OSS collaborations at the AI × platform × security boundary.
+
+<p>
+  <a href="https://www.linkedin.com/in/htunnthuthu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://blog.htunnthuthu.com/"><img src="https://img.shields.io/badge/Read%20the%20Blog-1B6CA8?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://hub.docker.com/u/htunnthuthu"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+</p>
+
 ---
 
 <div align="center">
 
-### ⭐ _"Building secure, scalable, and intelligent systems for tomorrow's challenges"_
+<sub><em>Translating frontier AI into governed, enterprise-grade platforms — secure, observable, and built to scale.</em></sub>
 
-**Thanks for visiting! Feel free to explore my repositories and reach out for collaboration.**
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,100:0F4C81&height=80&section=footer" alt="footer"/>
 
 </div>
