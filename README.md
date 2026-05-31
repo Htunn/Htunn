@@ -19,24 +19,6 @@
 
 ---
 
-## Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/users/htunn">
-    <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20%E2%80%94%20Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SA Pro"/>
-  </a>
-  <a href="https://www.credly.com/users/htunn">
-    <img src="https://img.shields.io/badge/AWS-DevOps%20Engineer%20%E2%80%94%20Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS DevOps Pro"/>
-  </a>
-  <a href="https://www.credly.com/users/htunn">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-Solutions%20Architect%20%E2%80%94%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure SA Expert"/>
-  </a>
-</p>
-
-<p align="center"><sub>Verified on <a href="https://www.credly.com/users/htunn">Credly</a></sub></p>
-
----
-
 ## About
 
 > Principal Architect & Advisor with **10+ years** of leadership at the intersection of high-velocity cloud platforms, automated security, and data ecosystems. I translate complex technical innovation — **GenAI, AIOps, agentic systems, and LLMOps** — into resilient corporate infrastructure that drives business growth while maintaining strict enterprise governance.
