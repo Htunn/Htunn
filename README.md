@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- ============================ HEADER ============================ -->
+# Htunn Thu Thu
 
-<a href="https://blog.htunnthuthu.com/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:1B6CA8&height=180&section=header&text=Htunn%20Thu%20Thu&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Principal%20Architect%20%C2%B7%20GenAI%20%26%20AIOps%20%C2%B7%20Platform%20Engineering&descSize=16&descAlignY=60&animation=fadeIn" alt="header" />
-</a>
-
-<br/>
+#### Principal Architect &middot; GenAI &amp; AIOps &middot; Platform Engineering
 
 <p>
   <a href="https://www.linkedin.com/in/htunnthuthu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -241,15 +237,6 @@ As an active **open-source author**, I build tools that automate compliance, str
 
 <div align="center">
 
-<a href="https://github.com/Htunn">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Htunn&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=1B6CA8&icon_color=1B6CA8" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/Htunn">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htunn&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=1B6CA8" alt="Top languages"/>
-</a>
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htunn&theme=tokyonight" alt="Profile Details" />
 
 </div>
@@ -282,9 +269,5 @@ Open to conversations on **enterprise GenAI strategy, agentic platform architect
 <div align="center">
 
 <sub><em>Translating frontier AI into governed, enterprise-grade platforms — secure, observable, and built to scale.</em></sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,100:0F4C81&height=80&section=footer" alt="footer"/>
 
 </div>
