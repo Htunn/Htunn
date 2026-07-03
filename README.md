@@ -129,9 +129,9 @@ As an active **open-source author**, I build tools that automate compliance, str
       <td><sub>Python · OpenCV</sub></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Htunn/simple-port-checker"><b>simple-port-checker</b></a></td>
-      <td>Python tool for firewall port checking and L7 protection detection (WAF, CDN).</td>
-      <td><sub>Python</sub></td>
+      <td><a href="https://github.com/Htunn/offsec-ai"><b>offsec-ai</b></a></td>
+      <td>Offensive-security toolkit combining classic network recon with AI/LLM security testing — probes LLM/chat endpoints for OWASP LLM Top 10, scans MCP servers for CVEs, tests Kubernetes clusters, auth protocols (OIDC/OAuth2/SAML), and performs full-stack infrastructure assessments. Available on PyPI.</td>
+      <td><sub>Python · CLI · MCP</sub></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Htunn/ml-training"><b>ml-training</b></a></td>
