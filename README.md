@@ -94,7 +94,7 @@ As an active **open-source author**, I build tools that automate compliance, str
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Htunn/simple-ai-agent"><b>simple-ai-agent</b></a></td>
+      <td><a href="https://github.com/Htunn/aiops-orchestrator"><b>aiops-orchestrator</b></a></td>
       <td>Production-ready multi-channel AI agent — AIOps, Kubernetes management, security scanning, human-in-the-loop remediation. Built on FastAPI, GitHub Models, and MCP.</td>
       <td><sub>Python · FastAPI · MCP</sub></td>
     </tr>
@@ -104,7 +104,7 @@ As an active **open-source author**, I build tools that automate compliance, str
       <td><sub>Python · Multi-LLM</sub></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Htunn/simple-exploit"><b>simple-exploit</b></a></td>
+      <td><a href="https://github.com/Htunn/invoke-sunstrike"><b>invoke-sunstrike</b></a></td>
       <td>AI-powered pentest framework with hot-reloadable plugins, intelligent WAF bypass, and dual AI engines — GitHub Models (GPT-4o/5) and Ollama (Gemma/Llama 3, offline).</td>
       <td><sub>Go · Ollama</sub></td>
     </tr>
